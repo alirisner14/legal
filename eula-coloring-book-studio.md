@@ -94,7 +94,7 @@ alongside the Software and listed at
 | Pillow | reads, resamples and prepares images | MIT-CMU |
 | NumPy | performs the measurements | BSD 3-Clause |
 | pywebview | shows the printable channel sheets | BSD 3-Clause |
-| PyMuPDF | assembles and inspects PDFs | AGPL v3, or commercial |
+| pypdfium2 / PDFium | renders PDFs | Apache-2.0 or BSD-3-Clause; PDFium BSD-style |
 
 Where a component is dynamically invoked as a separate program rather than
 modified, you are entitled to its source from its own project, and we will

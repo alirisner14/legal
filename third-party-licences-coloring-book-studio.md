@@ -79,31 +79,30 @@ Released under the **BSD 3-Clause Licence**.
 
 ---
 
-## PyMuPDF
+## pypdfium2 / PDFium
 
-PDF assembly and inspection — building the final interior files and reading
-them back to verify page count, size and placement. Version bundled: **2.0**
-(with `pymupdf4llm` and `pymupdf_layout`)
-<https://pymupdf.readthedocs.io/>
+PDF rendering — rasterising a cover PDF so the artwork can be cropped and
+placed. Version bundled: **5.14.0**
+<https://github.com/pypdfium2-team/pypdfium2>
 
-**Dual-licensed: GNU AGPL v3, or a commercial licence from Artifex.**
+The binding is released under **Apache-2.0 or BSD-3-Clause**, at your option.
+PDFium itself — the PDF engine from the Chromium project — is released under a
+**BSD-style licence**, and further open-source licences apply to libraries
+bundled inside it. All of those licence texts ship with the application, as
+their terms require.
 
-> **This one is not like the others, and it is not resolved.**
->
-> The AGPL is a strong copyleft licence. Distributing a closed-source
-> application that includes PyMuPDF is only permitted under the AGPL if the
-> application's own source is released under compatible terms. Coloring Book
-> Studio is sold as a closed-source product, so one of the following has to be
-> true before it is sold:
->
-> 1. a commercial licence is obtained from Artifex, the commercial licensing
->    agent for MuPDF; or
-> 2. PyMuPDF is replaced with a permissively licensed PDF library; or
-> 3. the application's source is released under AGPL-compatible terms.
->
-> Until one of those is done, this entry is a statement of the problem rather
-> than a grant of rights. It is recorded here in full because the honest
-> version of a licences page says what is unsettled.
+> **Why not PyMuPDF.** An earlier build used PyMuPDF for this. PyMuPDF is
+> dual-licensed AGPL v3 or commercial, and the AGPL does not permit
+> distributing it inside a closed-source application. It was replaced rather
+> than licensed, because it was doing one small job that a permissively
+> licensed engine does just as well.
+
+---
+
+## PDF writing
+
+PDFs are assembled by Pillow, listed above. No separate PDF library is
+involved in writing them.
 
 ---
 
