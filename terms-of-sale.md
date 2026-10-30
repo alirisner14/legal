@@ -21,8 +21,8 @@ Last updated 03 October 2026
 
 These Terms of Sale govern your purchase of software from On the Rise
 Digital. What you may *do* with the software afterwards is governed by the
-[End User Licence Agreement](../shared/EULA.md) and
-[Terms of Use](../shared/TERMS-OF-USE.md). This document is about the
+[End User Licence Agreement](/legal/eula-coloring-book-studio/) and
+[Terms of Use](/legal/terms-of-use/). This document is about the
 transaction only.
 
 ## 1. Who you are buying from
@@ -116,11 +116,11 @@ Once you tick it and the download begins, the cancellation right is gone. If
 you would rather keep it, do not tick the box — contact us and we will delay
 delivery for 14 days instead.
 
-**7.4** Outside the EU and UK, our [Refund Policy](REFUND-POLICY.md) applies.
+**7.4** Outside the EU and UK, our [Refund Policy](/legal/refund-policy/) applies.
 
 ## 8. Refunds
 
-See the [Refund Policy](REFUND-POLICY.md), which forms part of these Terms.
+See the [Refund Policy](/legal/refund-policy/), which forms part of these Terms.
 
 ## 9. Chargebacks
 
@@ -150,7 +150,7 @@ installed on your machine keeps working.
 ## 11. Support
 
 What support includes, and what it does not, is set out in the
-[Support Policy](SUPPORT-POLICY.md).
+[Support Policy](/legal/support-policy/).
 
 ## 12. Export and sanctions
 

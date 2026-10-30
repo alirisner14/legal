@@ -96,8 +96,8 @@ nor any liability that cannot lawfully be excluded.
 
 ## 10. Privacy
 
-See the [Privacy Policy](../shared/PRIVACY-POLICY.md) and the
-[Cookie Notice](COOKIE-NOTICE.md).
+See the [Privacy Policy](/legal/privacy-policy/) and the
+[Cookie Notice](/legal/cookie-notice/).
 
 ## 11. Changes
 

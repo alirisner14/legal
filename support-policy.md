@@ -73,12 +73,12 @@ third-party component or a site we do not control.
 
 Welcome, and genuinely read. We cannot promise to build any of them, and a
 missing feature is not grounds for a refund — see the
-[Refund Policy](REFUND-POLICY.md).
+[Refund Policy](/legal/refund-policy/).
 
 ## Updates
 
 Fixes and minor updates for the version you bought are free. See section 10
-of the [Terms of Sale](TERMS-OF-SALE.md) for how major versions work.
+of the [Terms of Sale](/legal/terms-of-sale/) for how major versions work.
 
 Direct-download builds do not update themselves — check the store page for new
 releases, or check the store page.

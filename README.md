@@ -13,3 +13,11 @@ a document in one place, change it in the other.
 needs a section written for the specific app before it is true of that app,
 and the Privacy Policy also carries an internal note that must be removed
 before it goes public.
+
+Nine documents are published. The Privacy Policy, Terms of Use and EULA now
+carry sections specific to Coloring Book Studio: section 14 of the Privacy
+Policy, Part B sections B9 to B12 of the Terms of Use, and the EULA's product
+name, components table and section 6.
+
+Adding another app means adding its row to section 14, its own Part B
+sections, and its own EULA page and third-party licences page.

@@ -21,7 +21,7 @@ places data can be. You can clear any of them on its own.
 ## 1. On your device
 
 Every app keeps its settings and your work on your own device, and nowhere
-else (see the [Privacy Policy](PRIVACY-POLICY.md), sections 2 and 14).
+else (see the [Privacy Policy](/legal/privacy-policy/), sections 2 and 14).
 
 **Desktop apps.** Close the app, then delete its data folder. The Privacy
 Policy table lists the folder for each app. To open it, press the Windows key
